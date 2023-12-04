@@ -1,0 +1,36 @@
+/* Reset de estilos para asegurar una base consistente */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos globales */
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+/* Estilos para el encabezado (h1) */
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Estilos para los párrafos (p) */
+p {
+    font-size: 1em;
+    margin-bottom: 15px;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #00bcd4; /* Cyan */
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+    color: #008ba3; /* Darker Cyan on hover */
+}
