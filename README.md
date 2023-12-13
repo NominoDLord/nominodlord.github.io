@@ -31,33 +31,40 @@ Aquí se irá añadiendo la información sobre los proyectos en los que se está
 
 ### ***::: ESTRUCTURA :::***
 ```
-Generador-de-Apuestas/
+Generador-de-Apuestas
 |
 |-- index.html
 |-- README.md
 |
-|-- about/
+\ > about/
 |
-|-- blog/
+\ > blog/
 |
-|-- contact/
+\ > contact/
 |
-|-- css/
+\ > css/
+|   |
 |   |-- styles.css
 |
-|-- docs/
+\ > docs/
 |
-|-- img/
-|   |-- Logo_Nomino-D-Lord_36px [basic].png
+\ > img/
+|   |
+|   |-- Logo[main].png
+|   |
+|   \ > Logos/
+|       |
+|       |-- Logo_Nomino-D-Lord_36px [basic_black].png
+|       |-- Logo_Nomino-D-Lord_36px [basic_white].png
 |
-|-- js/
-|
-|-- temp/
+\ > js/
+|  
+\ > temp
 |   |-- help.txt
 ```
 ---
 
-### ***::: CONTACTO :::***
+### *::: CONTACTO :::*
 
 > AUTOR: Nômino D Lord
 > 

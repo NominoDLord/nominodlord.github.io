@@ -1,0 +1,44 @@
+   ESTRUCTURA   
+
+|-- index.html
+|
+|-- css/
+|   |-- styles.css
+|
+|-- js/
+|   |-- main.js
+|
+|-- img/
+|   |-- imagen1.jpg
+|   |-- imagen2.png
+|
+|-- docs/
+|   |-- documentacion.pdf
+|
+|-- about/
+|   |-- about.html
+|
+|-- contact/
+|   |-- contact.html
+|
+|-- blog/
+|   |-- post1.html
+|   |-- post2.html
+|
+|-- README.mdd
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+· index.html				Página principal del sitio.
+· css/						Carpeta que contiene archivos CSS.
+· styles.css				Estilos principales del sitio.
+· js/						Carpeta que contiene archivos JavaScript.
+· main.js					Scripts principales del sitio.
+· img/						Carpeta para imágenes utilizadas en el sitio.
+· docs/						Carpeta para documentos u archivos que no son parte directa del sitio web, pero que pueden ser útiles, como documentos de referencia.
+· about/, contact/, blog/	Carpetas para secciones específicas del sitio.
+· about.html, contact.html	Páginas específicas para la sección "Acerca de" y "Contacto".
+· blog/						Carpeta que puede contener varias páginas para los artículos del blog.
+· README.md					Archivo de readme que puede proporcionar información adicional sobre el proyecto.
+
+------------------------------------------------------------------------------------------------------------------------------------
