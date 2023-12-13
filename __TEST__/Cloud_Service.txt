@@ -1,0 +1,22 @@
+
+
+
+
+· Amazon Web Service
+	Colección de servicios de computación en la nube usado en aplicaciones populares como Dropbox.
+
+· Microsoft Azure
+	Plataforma de computación en la nube para construir, probar, desplegar y administrar aplicaciones y servicios mediante el uso de sus centros de datos.
+
+· Netlify
+
+
+· Vercel
+	La arquitectura de Vercel se basa en una arquitectura componible y las implementaciones se manejan a través de repositorios Git.
+
+
+· FireBase
+	Plataforma para el desarrollo de aplicaciones web y aplicaciones móviles.
+
+
+
