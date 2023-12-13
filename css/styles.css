@@ -10,6 +10,7 @@ body {
     color: white;
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
+    margin: 20px; /* Agregar margen alrededor del contenido */
 }
 
 /* Estilos para el encabezado (h1) */
@@ -33,4 +34,37 @@ a {
 
 a:hover {
     color: #008ba3; /* Darker Cyan on hover */
+}
+
+/* Estilos para el menú superior */
+header {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+nav a:hover {
+    border-bottom: 2px solid white;
 }
