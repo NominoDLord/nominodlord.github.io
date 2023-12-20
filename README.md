@@ -24,7 +24,7 @@ Aquí se irá añadiendo la información sobre los proyectos en los que se está
 
 ### ***::: ESTRUCTURA :::***
 ```
-Generador-de-Apuestas
+NominoDLord.github.io
 |
 |-- index.html
 |-- README.md
